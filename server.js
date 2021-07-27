@@ -7,7 +7,7 @@ console.log("---------------------------------------");
 //----------------------------------------------
 const app = require('./controller/app');
 // const publicIp = require('public-ip');
-const port = process.env.PORT || 4200;
+const port = process.env.PORT || 4202;
 //----------------------------------------------
 // configurations
 //----------------------------------------------
